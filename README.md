@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinayksingh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML CSS Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on awesome open source projects.
 - 📫 How to reach me abhinayksingh789@gmail.com
 
 <!---
