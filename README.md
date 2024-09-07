@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhinayksingh
 - 👀 I’m interested in Coding
-- 🌱 I’m software developer who knows HTML CSS Javascript Typescript React Nodejs Jest.
-- 💞️ I’m looking to collaborate on project that challenge me.
+- 🌱 I’m software developer.
 - 📫 How to reach me abhinayksingh789@gmail.com
 
 <!---
